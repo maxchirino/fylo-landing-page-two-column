@@ -1,1 +1,1 @@
-# fylo-landing-page-two-column
+# Fylo landing page with two column layout
